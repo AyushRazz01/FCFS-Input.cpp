@@ -1,2 +1,2 @@
 # FCFS-Input.cpp
-I added an input feature of No. of process, ID, arrival time , Time.
+I created a C++ program to implement the First-Come, First-Served (FCFS) scheduling algorithm. The program takes user input for the number of processes, their Process ID, Arrival Time, and Burst Time. It then sorts the processes by arrival time and calculates Completion Time (CT), Turnaround Time (TAT), and Waiting Time (WT). Finally, it displays the results in a tabular format, demonstrating how FCFS scheduling executes processes in the order of their arrival.
